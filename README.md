@@ -1,0 +1,3 @@
+O site foi feito para especialização em HTML, contém dados fictícios da faculdade UNES, com abas para Home etc...
+
+![ProjetoUNES](https://github.com/user-attachments/assets/5f5c6517-cdb4-4f7c-a71f-96b0bcb92d79)
